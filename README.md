@@ -1,2 +1,4 @@
-# Hi, my name is Murat!
-# and this is my repository
+## Hi, my name is Murat! 
+---
+#### Welcome to my repository!
+
